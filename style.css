@@ -9,7 +9,7 @@
 body{
     background-image: linear-gradient(120deg,#e2c35d,#d88771);
     color : white;
-    font-family: "Poppins"; sans-seriff;
+    font-family: "Poppins", sans-seriff;
     min-height: 100vh;
 
 }
